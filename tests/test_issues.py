@@ -1,6 +1,6 @@
 # _*_ coding: utf-8 _*_
-from pydantic import ValidationError
-from pydantic.errors import UrlSchemeError
+from pydantic.v1 import ValidationError
+from pydantic.v1.errors import UrlSchemeError
 from fhir.resources.patient import Patient
 from fhir.resources.period import Period
 

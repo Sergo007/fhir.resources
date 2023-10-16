@@ -139,7 +139,7 @@ Breaking
 6.0.0b7 (2020-10-31)
 --------------------
 
-*If you face import error ``from pydantic.utils import ROOT_KEY``, please upgrade your pydnatic version to <1.7*
+*If you face import error ``from pydantic.v1.utils import ROOT_KEY``, please upgrade your pydnatic version to <1.7*
 
 Fixes
 

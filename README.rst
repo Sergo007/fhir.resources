@@ -37,7 +37,7 @@ Powered by pydantic_, all `FHIR Resources <https://www.hl7.org/fhir/resourcelist
 data validation, faster in performance and optionally ``orjson`` support has been included as a performance booster! Written in modern python.
 
 * Easy to construct, easy to extended validation, easy to export.
-* By inheriting behaviour from pydantic_, compatible with `ORM <https://en.wikipedia.org/wiki/Object-relational_mapping>`_.
+* By inheriting behaviour from pydantic.v1_, compatible with `ORM <https://en.wikipedia.org/wiki/Object-relational_mapping>`_.
 * Full support of FHIR® Extensibility for Primitive Data Types are available.
 * Previous release of FHIR® Resources are available.
 * Free software: BSD license
